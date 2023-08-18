@@ -2,7 +2,7 @@
 
 # 🚀 PatGPT Portfolio Template
 
-🌌 A sleek Next.js 13 template designed for building futuristic apps. Integrated with Radix UI and Tailwind CSS for an enhanced developer experience.
+🌌 A sleek Next.js 13 portfolio template designed for building futuristic apps. Integrated with Radix UI and Tailwind CSS for an enhanced developer experience.
 
 ## 🚀 Getting Started
 
@@ -23,5 +23,3 @@ npx create-next-app -e https://github.com/patgpt/next-template
 
 This project is licensed under the [MIT license](https://github.com/patgpt/patgpt-portfolio-template/blob/main/LICENSE.md). Happy coding! 🚀
 
----
- 
